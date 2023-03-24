@@ -1,4 +1,4 @@
-[Typing Speed](https://typing-speed-calc.netlify.app/)
+# [Typing Speed](https://typing-speed-calc.netlify.app/)
 
 ## Available Scripts
 
